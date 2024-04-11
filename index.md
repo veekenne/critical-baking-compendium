@@ -4,6 +4,8 @@ Hi! I'm Vee Kennedy (they/them/theirs) and I'm a Visiting Instructor in the Depa
 Here's a very brief list of examples of creations I'm most proud of from Critical Making<br><br>
 [Twine Texts and Technology Valentine's](https://veekenne.github.io/lovetnt/)<br>
 [Valentine's Images](https://veekenne.github.io/lovetnt/Valentines1.pdf)<br>
+[House Bill 1069 and the 49 in P5.js](/housebill1069.html)<br>
+
 
 
  
