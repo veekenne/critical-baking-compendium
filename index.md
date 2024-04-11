@@ -14,7 +14,7 @@ Despite baking since childhood, I’d never once made a red velvet recipe, and I
 Therein lies the code epiphany: if it works for baking, it must work for code, too, and the similarities don’t stop.  As I was working on my Pulse Project, I asked CoPilot to help me create a background gradient of the trans flag colors (light pink, light blue and white). I already understood the code tags and areas reflected in the content about how to make background colors and add background images, but a gradient was new to me. So, I asked for help. Much to my surprise, I understood what was generated - I wouldn’t have been able to do it by myself the first time, but it made perfect sense once I had an example to work from. Just as over the summer I distilled four or five Russian Teacake recipes into one after numerous attempts to find a ratio of powdered sugar, nuts (or nut alternatives) and fats that created the perfect melt-in-your-mouth crunch of a Russian Teacake before penning my creation down as my own recipe, I was once again looking at examples. After a bit more practice, much like my Russian Teacakes, I feel some confidence that I could create a gradient on my own now. <br>
 <br>
 
-# Experiments #
+### Experiments ###
 
 [Selfie Cake](/selfiecake.jpeg)<br>
 [Comic](/comic.jpg)<br>
